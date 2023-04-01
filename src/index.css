@@ -715,6 +715,7 @@ img{
 .services__modal-icon{
     color: var(--first-color);
     margin-right: var(--mb-0-25);
+    margin-top: var(--mb-0-25);
 }
 /* Active Modal */
 .active-modal{
