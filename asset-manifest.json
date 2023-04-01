@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JTPortfolio/static/css/main.ad28e23c.css",
-    "main.js": "/JTPortfolio/static/js/main.af6345f3.js",
+    "main.css": "/JTPortfolio/static/css/main.081fdef4.css",
+    "main.js": "/JTPortfolio/static/js/main.23817692.js",
     "static/media/Project.png": "/JTPortfolio/static/media/Project.7b48d2758b67de7cf219.png",
     "static/media/about.png": "/JTPortfolio/static/media/about.fb4cb7168e32b1e83422.png",
     "static/media/Yellevate.pdf": "/JTPortfolio/static/media/Yellevate.a6d7b52ee4810f7ca8b9.pdf",
@@ -9,15 +9,15 @@
     "static/media/Jobhives.png": "/JTPortfolio/static/media/Jobhives.fb57243f3ce453ea81e6.png",
     "static/media/Airbots.png": "/JTPortfolio/static/media/Airbots.2e62fb90db3a8d9b0255.png",
     "static/media/Blux.png": "/JTPortfolio/static/media/Blux.06d5383f32ea1ce8797b.png",
+    "static/media/JohnRicoTresvalles.pdf": "/JTPortfolio/static/media/JohnRicoTresvalles.7ac891287eade9c6d768.pdf",
     "static/media/certification.png": "/JTPortfolio/static/media/certification.d425a5502889923ebb65.png",
-    "static/media/JohnRicoTresvalles.pdf": "/JTPortfolio/static/media/JohnRicoTresvalles.749fc3be303d50e26bb2.pdf",
     "static/media/home.jpg": "/JTPortfolio/static/media/home.55f64a0ffd1d113595aa.jpg",
     "index.html": "/JTPortfolio/index.html",
-    "main.ad28e23c.css.map": "/JTPortfolio/static/css/main.ad28e23c.css.map",
-    "main.af6345f3.js.map": "/JTPortfolio/static/js/main.af6345f3.js.map"
+    "main.081fdef4.css.map": "/JTPortfolio/static/css/main.081fdef4.css.map",
+    "main.23817692.js.map": "/JTPortfolio/static/js/main.23817692.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad28e23c.css",
-    "static/js/main.af6345f3.js"
+    "static/css/main.081fdef4.css",
+    "static/js/main.23817692.js"
   ]
 }
