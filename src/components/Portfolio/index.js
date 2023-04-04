@@ -79,7 +79,7 @@ function Portfolio() {
 
             <h3 className="work__title">JobHives - "Job portal"</h3>
 
-            <a href="/" target={'_blank'} rel="noopener noreferrer"  className="work__button">
+            <a href="https://github.com/BlukissGithub/JobHives-Webite" target={'_blank'} rel="noopener noreferrer"  className="work__button">
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>
