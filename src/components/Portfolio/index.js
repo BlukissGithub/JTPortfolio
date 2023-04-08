@@ -2,6 +2,9 @@ import React, { useState, useEffect, useRef } from 'react';
 import Blux from '../../assets/img/Blux.png'
 import Airbots from '../../assets/img/Airbots.png'
 import Jobhives from '../../assets/img/Jobhives.png'
+import FigmaBlux from '../../assets/img/Layout-blux.png'
+import FigmaCirclex from '../../assets/img/Circlex.png'
+import SimpleLogin from '../../assets/img/Simple-login.png'
 import Cert from '../../assets/img/certification.png'
 import Yellevate from '../../assets/img/Yellevate.png'
 import YellevatePdf from '../../assets/pdf/Yellevate.pdf'
@@ -74,12 +77,41 @@ function Portfolio() {
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>
+
           <div className="work__card mix web">
             <img src={Jobhives} alt="" className="work__img" />
 
             <h3 className="work__title">JobHives - "Job portal"</h3>
 
             <a href="https://github.com/BlukissGithub/JobHives-Webite" target={'_blank'} rel="noopener noreferrer"  className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+          <div className="work__card mix web">
+            <img src={SimpleLogin} alt="" className="work__img" />
+
+            <h3 className="work__title">Simple - "Login & Signup"</h3>
+
+            <a href="https://blukissgithub.github.io/Login/" target={'_blank'} rel="noopener noreferrer"  className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+
+          <div className="work__card mix design">
+            <img src={FigmaBlux} alt="" className="work__img" />
+
+            <h3 className="work__title">Figma Design - "Blux"</h3>
+
+            <a href="https://www.figma.com/file/iuFvNbmPpdkqXH03bMH07x/BLUX-LAYOUT-%26-DESIGN?node-id=0%3A1&t=uA5QeJDvWUHk0sFg-1" target={'_blank'} rel="noopener noreferrer"  className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+          <div className="work__card mix design">
+            <img src={FigmaCirclex} alt="" className="work__img" />
+
+            <h3 className="work__title">Figma Design - "CircleX"</h3>
+
+            <a href="https://www.figma.com/file/yPfJaXasoWkKUkxBnblzw7/Untitled?node-id=0%3A1&t=yImZGb9XRIgbx5Ao-1" target={'_blank'} rel="noopener noreferrer"  className="work__button">
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>

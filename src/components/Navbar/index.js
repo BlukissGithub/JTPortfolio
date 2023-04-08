@@ -43,7 +43,7 @@ function Navbar() {
   return (
     <header className="header" id="header">
       <nav className="nav container">
-        <a href="/" className="nav__logo">
+        <a href="/Home" className="nav__logo">
           JT
         </a>
 
