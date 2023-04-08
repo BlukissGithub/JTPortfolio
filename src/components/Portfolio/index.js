@@ -6,6 +6,7 @@ import FigmaBlux from '../../assets/img/Layout-blux.png'
 import FigmaCirclex from '../../assets/img/Circlex.png'
 import SimpleLogin from '../../assets/img/Simple-login.png'
 import Cert from '../../assets/img/certification.png'
+import Certification from '../../assets/pdf/refocus.pdf'
 import Yellevate from '../../assets/img/Yellevate.png'
 import YellevatePdf from '../../assets/pdf/Yellevate.pdf'
 import mixitup from 'mixitup';
@@ -121,7 +122,7 @@ function Portfolio() {
 
             <h3 className="work__title">Refocus Data Analyst Course</h3>
 
-            <a href="assets/pdf/RefocusCompletionCertificate_John Rico Tresvalles_83081621.pdf" className="work__button">
+            <a href={Certification} target="_blank" rel="noopener noreferrer" className="work__button">
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>
