@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JTPortfolio/static/css/main.081fdef4.css",
-    "main.js": "/JTPortfolio/static/js/main.490b39a2.js",
+    "main.js": "/JTPortfolio/static/js/main.aebddb74.js",
     "static/media/Project.png": "/JTPortfolio/static/media/Project.7b48d2758b67de7cf219.png",
     "static/media/Circlex.png": "/JTPortfolio/static/media/Circlex.807028da36add3d38c4f.png",
     "static/media/Simple-login.png": "/JTPortfolio/static/media/Simple-login.c013d1b4e5061932c7c7.png",
@@ -12,15 +12,16 @@
     "static/media/Layout-blux.png": "/JTPortfolio/static/media/Layout-blux.e0e53c6bc857d5e16271.png",
     "static/media/Airbots.png": "/JTPortfolio/static/media/Airbots.2e62fb90db3a8d9b0255.png",
     "static/media/Blux.png": "/JTPortfolio/static/media/Blux.06d5383f32ea1ce8797b.png",
+    "static/media/refocus.pdf": "/JTPortfolio/static/media/refocus.fea84e54bbc10e6560a7.pdf",
     "static/media/JohnRicoTresvalles.pdf": "/JTPortfolio/static/media/JohnRicoTresvalles.7ac891287eade9c6d768.pdf",
     "static/media/certification.png": "/JTPortfolio/static/media/certification.d425a5502889923ebb65.png",
     "static/media/home.jpg": "/JTPortfolio/static/media/home.55f64a0ffd1d113595aa.jpg",
     "index.html": "/JTPortfolio/index.html",
     "main.081fdef4.css.map": "/JTPortfolio/static/css/main.081fdef4.css.map",
-    "main.490b39a2.js.map": "/JTPortfolio/static/js/main.490b39a2.js.map"
+    "main.aebddb74.js.map": "/JTPortfolio/static/js/main.aebddb74.js.map"
   },
   "entrypoints": [
     "static/css/main.081fdef4.css",
-    "static/js/main.490b39a2.js"
+    "static/js/main.aebddb74.js"
   ]
 }
