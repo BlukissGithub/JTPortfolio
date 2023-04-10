@@ -9,6 +9,8 @@ import Cert from '../../assets/img/certification.png'
 import Certification from '../../assets/pdf/refocus.pdf'
 import Yellevate from '../../assets/img/Yellevate.png'
 import YellevatePdf from '../../assets/pdf/Yellevate.pdf'
+import KapitalDao from '../../assets/pdf/KapitalDao.pdf'
+import KapitalDaox from '../../assets/img/KapitalDao.png'
 import mixitup from 'mixitup';
 
 function Portfolio() {
@@ -132,6 +134,15 @@ function Portfolio() {
             <h3 className="work__title">Yellevate Dispute Analysis</h3>
 
             <a href={YellevatePdf} target="_blank" rel="noopener noreferrer" className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+          <div className="work__card mix others">
+            <img src={KapitalDaox} alt="" className="work__img" />
+
+            <h3 className="work__title">Social Media Content</h3>
+
+            <a href={KapitalDao} target="_blank" rel="noopener noreferrer" className="work__button">
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>
