@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JTPortfolio/static/css/main.081fdef4.css",
-    "main.js": "/JTPortfolio/static/js/main.4309c1d9.js",
+    "main.js": "/JTPortfolio/static/js/main.9fbbda51.js",
     "static/media/KapitalDao.pdf": "/JTPortfolio/static/media/KapitalDao.54a69eb374874354cda6.pdf",
     "static/media/Project.png": "/JTPortfolio/static/media/Project.7b48d2758b67de7cf219.png",
     "static/media/Circlex.png": "/JTPortfolio/static/media/Circlex.807028da36add3d38c4f.png",
@@ -18,12 +18,13 @@
     "static/media/JohnRicoTresvalles.pdf": "/JTPortfolio/static/media/JohnRicoTresvalles.7ac891287eade9c6d768.pdf",
     "static/media/certification.png": "/JTPortfolio/static/media/certification.d425a5502889923ebb65.png",
     "static/media/home.jpg": "/JTPortfolio/static/media/home.55f64a0ffd1d113595aa.jpg",
+    "static/media/UX.png": "/JTPortfolio/static/media/UX.3f42e1518a796bdd0d74.png",
     "index.html": "/JTPortfolio/index.html",
     "main.081fdef4.css.map": "/JTPortfolio/static/css/main.081fdef4.css.map",
-    "main.4309c1d9.js.map": "/JTPortfolio/static/js/main.4309c1d9.js.map"
+    "main.9fbbda51.js.map": "/JTPortfolio/static/js/main.9fbbda51.js.map"
   },
   "entrypoints": [
     "static/css/main.081fdef4.css",
-    "static/js/main.4309c1d9.js"
+    "static/js/main.9fbbda51.js"
   ]
 }
