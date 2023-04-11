@@ -5,6 +5,7 @@ import Jobhives from '../../assets/img/Jobhives.png'
 import FigmaBlux from '../../assets/img/Layout-blux.png'
 import FigmaCirclex from '../../assets/img/Circlex.png'
 import SimpleLogin from '../../assets/img/Simple-login.png'
+import CertUx from '../../assets/img/UX.png'
 import Cert from '../../assets/img/certification.png'
 import Certification from '../../assets/pdf/refocus.pdf'
 import Yellevate from '../../assets/img/Yellevate.png'
@@ -125,6 +126,15 @@ function Portfolio() {
             <h3 className="work__title">Refocus Data Analyst Course</h3>
 
             <a href={Certification} target="_blank" rel="noopener noreferrer" className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+          <div className="work__card mix certification">
+            <img src={CertUx} alt="" className="work__img" />
+
+            <h3 className="work__title">UX Course</h3>
+
+            <a href={CertUx} target="_blank" rel="noopener noreferrer" className="work__button">
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>
