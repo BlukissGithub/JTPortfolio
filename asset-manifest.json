@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JTPortfolio/static/css/main.081fdef4.css",
-    "main.js": "/JTPortfolio/static/js/main.9fbbda51.js",
+    "main.js": "/JTPortfolio/static/js/main.cc164e37.js",
     "static/media/KapitalDao.pdf": "/JTPortfolio/static/media/KapitalDao.54a69eb374874354cda6.pdf",
     "static/media/Project.png": "/JTPortfolio/static/media/Project.7b48d2758b67de7cf219.png",
     "static/media/Circlex.png": "/JTPortfolio/static/media/Circlex.807028da36add3d38c4f.png",
@@ -21,10 +21,10 @@
     "static/media/UX.png": "/JTPortfolio/static/media/UX.3f42e1518a796bdd0d74.png",
     "index.html": "/JTPortfolio/index.html",
     "main.081fdef4.css.map": "/JTPortfolio/static/css/main.081fdef4.css.map",
-    "main.9fbbda51.js.map": "/JTPortfolio/static/js/main.9fbbda51.js.map"
+    "main.cc164e37.js.map": "/JTPortfolio/static/js/main.cc164e37.js.map"
   },
   "entrypoints": [
     "static/css/main.081fdef4.css",
-    "static/js/main.9fbbda51.js"
+    "static/js/main.cc164e37.js"
   ]
 }
